@@ -32,9 +32,4 @@ Set up OAuth 2.0 authentication with Google (using your OAuth credentials)
 Backend API to handle Gmail API calls server-side (for security)
 Google Sheets API integration to create sheets programmatically
 
-Would you like me to create:
 
-A standalone HTML file your team can download and run locally?
-A Node.js/Python backend with proper Gmail API integration?
-A Docker container ready for deployment?
-Step-by-step setup instructions for your team?
