@@ -14,5 +14,4 @@ How Your Team Can Use It:
 Or download as CSV — Save locally for further analysis
 Gmail email extract source email IDs
 
-**** Contributors : Reeya Gyanmote
 
